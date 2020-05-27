@@ -1,4 +1,4 @@
-# calcúlo para estudantes de universidade, que desejam sabe sua precisão de nota final, em uma disciplina.
+# calcúlo para estudantes de universidade, que desejam saber sua precisão de nota final, em uma disciplina.
 
 print('== Estágio 1 ==')
 peso1 = float(input('Peso? '))
